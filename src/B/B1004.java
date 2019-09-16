@@ -1,11 +1,18 @@
+package B;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Main {
+public class B1004 {
 
     public static void main(String[] args) {
+        /**
+         * Joe Math990112 89
+         * Mike CS991301 100
+         * Mary EE990830 95
+         */
         Scanner sc1  = new Scanner(System.in);
         int count = sc1.nextInt();
         // 初始化学生信息
