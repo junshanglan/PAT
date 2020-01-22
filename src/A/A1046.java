@@ -1,14 +1,14 @@
+package A;
 
 import java.util.*;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**
  * @author ：junshanglan
- * @date ：Created in 2019/12/29 9:34
+ * @date ：Created in 2020/1/15 22:09
  * @description：
  */
-public class Main {
+public class A1046 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -52,8 +52,4 @@ public class Main {
         }
         result.add(sum);
     }
-
-
-
-
 }
